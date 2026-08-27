@@ -1,0 +1,10 @@
+{
+  // Solution file: one program per side (host half vs browser half).
+  // host（Node）与 browser（DOM/jsx）的编译目标不同，且各自声明合并宿主 Context
+  // 的方式不同，分开 program 避免互相干扰。构建命令：tsc -b && tsdown。
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.host.json" },
+    { "path": "./tsconfig.client.json" }
+  ]
+}

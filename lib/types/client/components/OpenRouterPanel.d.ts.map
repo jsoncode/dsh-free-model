@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenRouterPanel.d.ts","sourceRoot":"","sources":["../../../../src/client/components/OpenRouterPanel.tsx"],"names":[],"mappings":"AAAA;;;;;;GAMG;AAIH,OAAO,KAAK,EAAE,KAAK,EAAE,MAAM,WAAW,CAAA;AA4BtC,MAAM,WAAW,oBAAoB;IACnC,GAAG,EAAE,KAAK,CAAA;CACX;AAED,wBAAgB,eAAe,CAAC,EAAE,GAAG,EAAE,EAAE,oBAAoB,+BAgK5D"}
